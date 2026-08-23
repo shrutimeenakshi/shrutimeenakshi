@@ -1,48 +1,48 @@
 # 👋 Hi, I'm Shruti Meenakshi N S
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Computer%20Science%20Student;Big%20Data%20Analytics%20Enthusiast;Python%20%7C%20SQL%20%7C%20Flask;Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Development;Building%20Scalable%20Data-Driven%20Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Big+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Flask;Data+Analytics;Machine+Learning;Full+Stack+Development;Building+Scalable+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/shrutimeenakshi">
-    <img src="https://img.shields.io/badge/GitHub-shrutimeenakshi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shruti-meenakshi">
-    <img src="https://img.shields.io/badge/LinkedIn-Shruti%20Meenakshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 ## 🧠 About Me
 
-🎓 Computer Science student specializing in **Big Data Analytics** at **SRM Institute of Science & Technology**.
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-💻 Skilled in **Python, Java, SQL, HTML, Flask and REST APIs**.
+- 🎓 Pursuing **B.Tech CSE (Big Data Analytics)** at **SRM Institute of Science & Technology**, Chennai
+- 📊 Interested in **Data Analytics, Machine Learning and Full Stack Development**
+- 💻 Skilled in **Python, Java, SQL, HTML, Flask and REST APIs**
+- 🤖 Experienced in **NLP, Machine Learning and Recommendation Systems**
+- 🛍️ Worked on **Upsell & Cross-sell Recommendations** during my Movate internship
+- 📄 Developed an **Automated Resume Screening & Ranking System** using NLP and Machine Learning
+- 🚀 Passionate about building **data-driven and practical software solutions**
+- 💡 Interested in combining **AI, analytics and software development** to solve real-world problems
 
-📊 Interested in **Data Analytics, Machine Learning and full-stack development**.
+</td>
 
-🤖 Experienced in building applications involving **NLP, Machine Learning, recommendation systems and data-driven solutions**.
+<td width="35%" align="center">
 
-🚀 I enjoy transforming data and business requirements into practical software solutions.
+<img src="./assets/coding.gif" width="300" alt="Coding Illustration"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** 
-<img src="https://skillicons.dev/icons?i=python,java" height="28" /> • SQL • HTML
+**💻 Languages:** <img src="https://skillicons.dev/icons?i=python,java" height="28" /> • SQL • HTML
 
-**🌐 Web & Backend:** 
-<img src="https://skillicons.dev/icons?i=flask" height="28" /> • REST APIs
+**🌐 Web & Backend:** <img src="https://skillicons.dev/icons?i=flask" height="28" /> • REST APIs
 
-**📊 Data & Analytics:** 
-Pandas • Matplotlib • Power BI • Excel • EDA • Association Rule Mining
+**📊 Data & Analytics:** Pandas • Matplotlib • Power BI • Excel • Data Preprocessing • EDA • Association Rule Mining
 
-**🔧 Tools:** 
-<img src="https://skillicons.dev/icons?i=git,github,postman" height="28" />
+**🧠 AI & ML:** Machine Learning • NLP • Recommendation Systems • Generative AI
 
+**🔧 Tools:** <img src="https://skillicons.dev/icons?i=git,github,postman" height="28" />
 
 ---
 
@@ -50,14 +50,17 @@ Pandas • Matplotlib • Power BI • Excel • EDA • Association Rule Mining
 
 ### 🛍️ Upsell & Cross-sell Recommendation System
 
-A data-driven recommendation system developed during my **Data Analytics Internship at Movate Technologies (CSS Corp)**.
+A data-driven recommendation system developed during my **Movate Internship Programme 2026 – Track A: Applied Data Analytics & ML**.
 
-* Developed an upsell and cross-sell recommendation system using **Python and Apriori Association Rule Mining**
-* Performed **survey analysis, data preprocessing and exploratory data analysis**
-* Generated recommendation rules using **Support, Confidence and Lift**
-* Applied data-driven techniques to identify meaningful product associations
+- Developed an upsell and cross-sell recommendation system using **Python and Apriori Association Rule Mining**
+- Performed **survey analysis, data preprocessing and exploratory data analysis**
+- Analyzed customer behaviour and product associations
+- Generated recommendation rules using **Support, Confidence and Lift**
+- Integrated **Generative AI and Gemini API**
+- Built AI-driven product recommendations
+- Translated data insights into meaningful business recommendations
 
-**Tech:** `Python` `Pandas` `Apriori` `Association Rule Mining` `EDA`
+**Tech:** `Python` `Pandas` `Apriori` `Association Rule Mining` `EDA` `Generative AI` `Gemini API`
 
 🔗 [View Project](https://github.com/shrutimeenakshi/Upsell-Cross-sell-Recommendations)
 
@@ -67,17 +70,14 @@ A data-driven recommendation system developed during my **Data Analytics Interns
 
 An automated recruitment-support system developed during my internship at **Agilisium Consulting India Private Limited**.
 
-* Built using **Flask, Python, SQLite, NLP and Machine Learning**
-* Implemented **Logistic Regression** for candidate classification
-* Developed **resume parsing and Job Description matching**
-* Implemented **ATS-based candidate ranking**
-* Used **text similarity analysis** for candidate-job matching
-* Designed a recruiter dashboard with:
-
-  * Resume management
-  * Candidate filtering
-  * Match score analysis
-  * Automated screening
+- Built using **Flask, Python, SQLite, NLP and Machine Learning**
+- Implemented **Logistic Regression** for candidate classification
+- Developed **resume parsing and Job Description matching**
+- Implemented **ATS-based candidate ranking**
+- Used **text similarity analysis** for candidate-job matching
+- Designed a recruiter dashboard
+- Implemented candidate filtering and match score analysis
+- Supported automated resume screening workflows
 
 **Tech:** `Python` `Flask` `SQLite` `NLP` `Machine Learning` `Logistic Regression`
 
@@ -89,13 +89,13 @@ An automated recruitment-support system developed during my internship at **Agil
 
 A QR-based system designed for student meal attendance and nutrition management.
 
-* Developed using **Flask and SQLite**
-* Implemented **real-time student attendance and meal tracking**
-* Created role-based **admin and staff dashboards**
-* Added analytics and automated reporting
-* Implemented **BMI-based health deficiency analysis**
-* Added nutrition recommendation workflows
-* Implemented QR-based student verification
+- Developed using **Flask and SQLite**
+- Implemented student attendance and meal tracking
+- Created role-based **admin and staff dashboards**
+- Added analytics and automated reporting
+- Implemented **BMI-based health deficiency analysis**
+- Added nutrition recommendation workflows
+- Implemented QR-based student verification
 
 **Tech:** `Python` `Flask` `SQLite` `HTML` `CSS` `Bootstrap`
 
@@ -107,12 +107,12 @@ A QR-based system designed for student meal attendance and nutrition management.
 
 A backend-focused restaurant management application.
 
-* Developed backend services for **authentication**
-* Implemented **menu management**
-* Implemented **order processing**
-* Built REST APIs using Flask
-* Tested APIs using **Postman**
-* Added admin analytics and reporting features
+- Developed backend services for **authentication**
+- Implemented **menu management**
+- Implemented **order processing**
+- Built REST APIs using Flask
+- Tested APIs using **Postman**
+- Added admin analytics and reporting features
 
 **Tech:** `Python` `Flask` `SQLite` `REST APIs` `Postman`
 
@@ -122,7 +122,7 @@ A backend-focused restaurant management application.
 
 ### 📊 Data Analytics Intern — Movate Technologies (CSS Corp)
 
-**Movate Internship Programme 2026 — Track A: Applied Data Analytics & ML**
+**Movate Internship Programme 2026 – Track A: Applied Data Analytics & ML**
 
 📅 **15 June 2026 – 7 August 2026**
 
@@ -132,18 +132,20 @@ Worked on a real-world consumer-product recommendation problem focused on identi
 
 During the internship, I gained hands-on experience in:
 
-* 📊 Data analysis and understanding customer behaviour
-* 📝 Survey design and response collection
-* 🧹 Data preprocessing and exploratory data analysis
-* 🧠 Apriori Association Rule Mining
-* 📈 Support, Confidence and Lift analysis
-* 🤖 Generative AI and Gemini API integration
-* 🛍️ Building AI-driven product recommendations
-* 💡 Translating data insights into meaningful business recommendations
-* 🎯 Applying data analytics and AI to a real-world business problem
-* 🗣️ Presenting technical insights in a simple, business-focused manner
+- 📊 Data analysis and understanding customer behaviour
+- 📝 Survey design and response collection
+- 🧹 Data preprocessing and exploratory data analysis
+- 🧠 Apriori Association Rule Mining
+- 📈 Support, Confidence and Lift analysis
+- 🤖 Generative AI and Gemini API integration
+- 🛍️ Building AI-driven product recommendations
+- 💡 Translating data insights into meaningful business recommendations
+- 🎯 Applying data analytics and AI to a real-world business problem
+- 🗣️ Presenting technical insights in a simple, business-focused manner
 
 The internship helped me understand how **data analytics, association rule mining, Generative AI, and business strategy** can work together to solve practical problems and identify opportunities for revenue growth.
+
+---
 
 ### 🤖 Agilisium Consulting India Private Limited
 
@@ -153,25 +155,24 @@ The internship helped me understand how **data analytics, association rule minin
 
 Developed an automated resume screening and ranking system using:
 
-* 🐍 Python
-* 🌐 Flask
-* 🗄️ SQLite
-* 🧠 NLP
-* 🤖 Machine Learning — Logistic Regression
+- 🐍 Python
+- 🌐 Flask
+- 🗄️ SQLite
+- 🧠 NLP
+- 🤖 Machine Learning — Logistic Regression
 
 Key contributions included:
 
-* 📄 Resume parsing
-* 🎯 Job Description matching
-* 📊 ATS-based candidate ranking
-* 🔎 Text similarity analysis
-* 👥 Candidate filtering
-* 📈 Match score analysis
-* 🖥️ Recruiter dashboard development
-* ⚙️ Automated candidate screening workflows
+- 📄 Resume parsing
+- 🎯 Job Description matching
+- 📊 ATS-based candidate ranking
+- 🔎 Text similarity analysis
+- 👥 Candidate filtering
+- 📈 Match score analysis
+- 🖥️ Recruiter dashboard development
+- ⚙️ Automated candidate screening workflows
 
 ---
-
 
 ## 🎓 Education
 
@@ -179,8 +180,8 @@ Key contributions included:
 
 **B.Tech — Computer Science & Engineering, Big Data Analytics**
 
-📍 Chennai, India
-📅 2023 – 2027
+📍 Chennai, India  
+📅 2023 – 2027  
 🏆 **CGPA: 9.34 / 10**
 
 ---
@@ -199,16 +200,17 @@ Key contributions included:
 🗄️ **Database and SQL — Infosys**
 
 ☁️ **Introduction to Cloud Computing — Infosys**
+
 ---
 
 ## 🏆 Leadership
 
 ### 🎯 Event Logistics Head — Matrix Club, SRM University
 
-* Coordinated end-to-end event logistics
-* Managed resource allocation
-* Coordinated vendor management
-* Supported smooth on-ground event execution
+- Coordinated end-to-end event logistics
+- Managed resource allocation
+- Coordinated vendor management
+- Supported smooth on-ground event execution
 
 ---
 
@@ -218,36 +220,52 @@ Key contributions included:
 
 Volunteered to mentor students by delivering structured sessions focused on:
 
-* Foundational knowledge
-* Analytical thinking
-* Academic confidence
-
----
+- Foundational knowledge
+- Analytical thinking
+- Academic confidence
 
 ## 🎯 Areas of Interest
 
-```text
-📊 Data Analytics
-🤖 Machine Learning
-🧠 Natural Language Processing
-🛍️ Recommendation Systems
-🌐 Full-Stack Development
-🔌 REST API Development
-📈 Business Intelligence
-```
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🧠 Natural Language Processing
+- 🛍️ Recommendation Systems
+- 🌐 Full-Stack Development
+- 🔌 REST API Development
+- 📈 Business Intelligence
+- 🤖 Generative AI
 
 ---
 
 ## 📚 Currently Growing
 
-* Advanced Python
-* SQL & Database Development
-* Flask & REST APIs
-* Data Analytics
-* Machine Learning
-* NLP
-* Full-Stack Development
-* Business Intelligence
+- Advanced Python
+- SQL & Database Development
+- Flask & REST APIs
+- Data Analytics
+- Machine Learning
+- NLP
+- Full-Stack Development
+- Business Intelligence
+- Generative AI
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shrutimeenakshi/shrutimeenakshi/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shrutimeenakshi/shrutimeenakshi/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/shrutimeenakshi/shrutimeenakshi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -255,13 +273,13 @@ Volunteered to mentor students by delivering structured sessions focused on:
 
 <p align="center">
   <a href="https://github.com/shrutimeenakshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/shruti-meenakshi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shrutimeena04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -271,6 +289,3 @@ Volunteered to mentor students by delivering structured sessions focused on:
   <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
