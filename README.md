@@ -4,21 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Big+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Flask;Data+Analytics;Machine+Learning;Full+Stack+Development;Building+Scalable+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
-
 ## 🧠 About Me
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-- 🎓 Pursuing **B.Tech CSE (Big Data Analytics)** at **SRM Institute of Science & Technology**, Chennai
-- 📊 Interested in **Data Analytics, Machine Learning and Full Stack Development**
-- 💻 Skilled in **Python, Java, SQL, HTML, Flask and REST APIs**
-- 🤖 Experienced in **NLP, Machine Learning and Recommendation Systems**
-- 🛍️ Worked on **Upsell & Cross-sell Recommendations** during my Movate internship
-- 📄 Developed an **Automated Resume Screening & Ranking System** using NLP and Machine Learning
-- 🚀 Passionate about building **data-driven and practical software solutions**
-- 💡 Interested in combining **AI, analytics and software development** to solve real-world problems
+- 🎓 **B.Tech CSE (Big Data Analytics)** @ **SRM Institute of Science & Technology, Chennai** | 2023–2027
+- 💼 Completed **Data Analytics & ML Internship @ Movate** with a focus on **Upsell & Cross-sell Recommendations**
+- 🛠️ Building with **Python, Java, SQL, Flask, REST APIs and AI/ML**
+- 🔍 Exploring **Data Analytics, NLP, Generative AI and Full Stack Development**
+- 🌱 Turning **data, ideas and real-world problems into working applications**
 
 </td>
 
@@ -224,30 +220,13 @@ Volunteered to mentor students by delivering structured sessions focused on:
 - Analytical thinking
 - Academic confidence
 
-## 🎯 Areas of Interest
+## 🎯 Areas of Interest & Learning
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🧠 Natural Language Processing
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning, NLP & Generative AI
+- 🌐 Full-Stack Development & REST APIs
 - 🛍️ Recommendation Systems
-- 🌐 Full-Stack Development
-- 🔌 REST API Development
-- 📈 Business Intelligence
-- 🤖 Generative AI
-
----
-
-## 📚 Currently Growing
-
-- Advanced Python
-- SQL & Database Development
-- Flask & REST APIs
-- Data Analytics
-- Machine Learning
-- NLP
-- Full-Stack Development
-- Business Intelligence
-- Generative AI
+- 🐍 Advanced Python & SQL
 
 ---
 
