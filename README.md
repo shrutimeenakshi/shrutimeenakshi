@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shruti Meenakshi N S
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Big+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Flask;Data+Analytics;Machine+Learning;Full+Stack+Development;Building+Scalable+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning+%7C+Full+Stack+Development" alt="Typing SVG" />
 </p>
 
 ## 🧠 About Me
